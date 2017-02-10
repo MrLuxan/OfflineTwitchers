@@ -1,6 +1,7 @@
 {
     "manifest_version": 2,
     "name": "OfflineTwitchers",
+    "description": "twitch.tv Chrome Extensions - Shows offline channels on the following/channels page",
     "version": "1.0",
     "icons": { "16": "images/Icon16.png",
                "48": "images/Icon48.png",
